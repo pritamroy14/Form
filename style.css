@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(236, 236, 236);
+    color: rgb(0, 0, 0);
+     }
+div.form{
+      background-color: skyblue;
+                display: block;
+                box-shadow: 0 0 6px rgb(7, 80, 226);
+                margin-left: 10cm;
+                margin-right: 10cm;
+                border: 2px solid black;
+         }
